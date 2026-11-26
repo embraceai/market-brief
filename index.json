@@ -1,0 +1,52 @@
+{
+ "schema": "brief-index/1",
+ "briefs": [
+  {
+   "id": "2026-11-25-2145",
+   "file": "briefs/2026-11-25-2145.json",
+   "generatedAt": "2026-11-26T05:45:01.502Z",
+   "slot": "9:45 PM",
+   "headline": "Credit markets, not CEO drama, now set AI-infrastructure prices; rate hikes squeeze leverage",
+   "mood": {
+    "label": "Mixed",
+    "net": -0.06172839506172839
+   },
+   "counts": {
+    "posts": 653,
+    "market": 268,
+    "accounts": 41,
+    "must": 10,
+    "setups": 8,
+    "researched": 18
+   },
+   "tickers": [
+    {
+     "t": "CRWV",
+     "pct": -0.08214998239642435
+    },
+    {
+     "t": "ORCL",
+     "pct": -5.132420091324205
+    },
+    {
+     "t": "NVDA",
+     "pct": -3.9129875144806183
+    },
+    {
+     "t": "SPX",
+     "pct": -0.2542670623475113
+    },
+    {
+     "t": "NDX",
+     "pct": -0.6382189805525254
+    },
+    {
+     "t": "DJI",
+     "pct": 0.32837718693208745
+    }
+   ],
+   "newCount": 18
+  }
+ ],
+ "updatedAt": "2026-11-26T05:45:01.502Z"
+}
