@@ -1,24 +1,22 @@
 {
- "schema": "brief-index/1",
+ "schema": "brief-index/2",
  "briefs": [
   {
-   "id": "2026-11-25-2145",
-   "file": "briefs/2026-11-25-2145.json",
-   "generatedAt": "2026-11-26T05:45:01.502Z",
-   "slot": "9:45 PM",
+   "id": "2026-11-25-2241-must",
+   "run": "2026-11-25-2241",
+   "kind": "must",
+   "title": "Must-know",
+   "file": "briefs/2026-11-25-2241-must.json",
+   "generatedAt": "2026-11-26T06:41:45.125Z",
+   "slot": "10:41 PM",
+   "count": 27,
+   "newCount": 27,
+   "dirs": {
+    "up": 4,
+    "down": 22,
+    "mixed": 1
+   },
    "headline": "Credit markets, not CEO drama, now set AI-infrastructure prices; rate hikes squeeze leverage",
-   "mood": {
-    "label": "Mixed",
-    "net": -0.06172839506172839
-   },
-   "counts": {
-    "posts": 653,
-    "market": 268,
-    "accounts": 41,
-    "must": 10,
-    "setups": 8,
-    "researched": 18
-   },
    "tickers": [
     {
      "t": "CRWV",
@@ -38,15 +36,57 @@
     },
     {
      "t": "NDX",
-     "pct": -0.6382189805525254
+     "pct": -0.6380976882424834
     },
     {
      "t": "DJI",
      "pct": 0.32837718693208745
     }
-   ],
-   "newCount": 18
+   ]
+  },
+  {
+   "id": "2026-11-25-2241-setups",
+   "run": "2026-11-25-2241",
+   "kind": "setups",
+   "title": "Setups to research",
+   "file": "briefs/2026-11-25-2241-setups.json",
+   "generatedAt": "2026-11-26T06:41:45.125Z",
+   "slot": "10:41 PM",
+   "count": 8,
+   "newCount": 8,
+   "dirs": {
+    "up": 3,
+    "down": 5,
+    "mixed": 0
+   },
+   "headline": "Bullish consensus on DELL",
+   "tickers": [
+    {
+     "t": "DELL",
+     "pct": 0.6028176645895522
+    },
+    {
+     "t": "SPCX",
+     "pct": 1.2956044829504771
+    },
+    {
+     "t": "META",
+     "pct": 3.402733037197778
+    },
+    {
+     "t": "BTC",
+     "pct": 0.0474340482061755
+    },
+    {
+     "t": "CL",
+     "pct": 0.47801147227532437
+    },
+    {
+     "t": "GC",
+     "pct": 1.0211524434719208
+    }
+   ]
   }
  ],
- "updatedAt": "2026-11-26T05:45:01.502Z"
+ "updatedAt": "2026-11-26T06:41:45.125Z"
 }
