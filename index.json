@@ -2,6 +2,88 @@
  "schema": "brief-index/2",
  "briefs": [
   {
+   "id": "2026-11-26-0614-must",
+   "run": "2026-11-26-0614",
+   "kind": "must",
+   "title": "Must-know",
+   "file": "briefs/2026-11-26-0614-must.json",
+   "generatedAt": "2026-11-26T14:14:28.055Z",
+   "slot": "6:14 AM",
+   "count": 28,
+   "newCount": 20,
+   "dirs": {
+    "up": 0,
+    "down": 25,
+    "mixed": 3
+   },
+   "headline": "Governance risk around Huang's return, not finances, now threatens Nvidia's credit",
+   "tickers": [
+    {
+     "t": "NVDA",
+     "pct": -3.9129875144806183
+    },
+    {
+     "t": "NDX",
+     "pct": -0.6380976882424834
+    },
+    {
+     "t": "SPX",
+     "pct": -0.2542670623475113
+    },
+    {
+     "t": "SOX",
+     "pct": -0.652578471262002
+    },
+    {
+     "t": "AMD",
+     "pct": -1.7518813366564256
+    },
+    {
+     "t": "CRWV",
+     "pct": -0.08214998239642435
+    }
+   ]
+  },
+  {
+   "id": "2026-11-26-0614-setups",
+   "run": "2026-11-26-0614",
+   "kind": "setups",
+   "title": "Setups to research",
+   "file": "briefs/2026-11-26-0614-setups.json",
+   "generatedAt": "2026-11-26T14:14:28.055Z",
+   "slot": "6:14 AM",
+   "count": 8,
+   "newCount": 8,
+   "dirs": {
+    "up": 3,
+    "down": 5,
+    "mixed": 0
+   },
+   "headline": "Bullish consensus on AMZN",
+   "tickers": [
+    {
+     "t": "AMZN",
+     "pct": -3.1154623647389847
+    },
+    {
+     "t": "SPCX",
+     "pct": 1.2956044829504771
+    },
+    {
+     "t": "CRWV",
+     "pct": -0.08214998239642435
+    },
+    {
+     "t": "GC",
+     "pct": 0.9510183470796189
+    },
+    {
+     "t": "SPX",
+     "pct": -0.2542670623475113
+    }
+   ]
+  },
+  {
    "id": "2026-11-25-2241-must",
    "run": "2026-11-25-2241",
    "kind": "must",
@@ -88,5 +170,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-26T06:41:45.125Z"
+ "updatedAt": "2026-11-26T14:14:28.055Z"
 }
