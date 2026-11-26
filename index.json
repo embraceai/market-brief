@@ -2,6 +2,135 @@
  "schema": "brief-index/2",
  "briefs": [
   {
+   "id": "2026-11-26-1107-must",
+   "run": "2026-11-26-1107",
+   "kind": "must",
+   "title": "Must-know",
+   "file": "briefs/2026-11-26-1107-must.json",
+   "generatedAt": "2026-11-26T19:07:38.365Z",
+   "slot": "11:07 AM",
+   "count": 31,
+   "newCount": 3,
+   "dirs": {
+    "up": 0,
+    "down": 27,
+    "mixed": 4
+   },
+   "headline": "MSTR below its bitcoin value means its share-sale-to-buy-BTC model has stalled",
+   "tickers": [
+    {
+     "t": "MSTR",
+     "pct": 3.107672469374593
+    },
+    {
+     "t": "BTC",
+     "pct": 0.11292085917238566
+    },
+    {
+     "t": "IBIT",
+     "pct": 0.918246445497637
+    },
+    {
+     "t": "NVDA",
+     "pct": -3.9129875144806183
+    },
+    {
+     "t": "SOXX",
+     "pct": -0.4975897994091125
+    },
+    {
+     "t": "NDX",
+     "pct": -0.6380976882424834
+    }
+   ]
+  },
+  {
+   "id": "2026-11-26-1107-setups",
+   "run": "2026-11-26-1107",
+   "kind": "setups",
+   "title": "Setups to research",
+   "file": "briefs/2026-11-26-1107-setups.json",
+   "generatedAt": "2026-11-26T19:07:38.365Z",
+   "slot": "11:07 AM",
+   "count": 8,
+   "newCount": 1,
+   "dirs": {
+    "up": 4,
+    "down": 4,
+    "mixed": 0
+   },
+   "headline": "Bullish consensus on AMZN",
+   "tickers": [
+    {
+     "t": "AMZN",
+     "pct": -3.1154623647389847
+    },
+    {
+     "t": "SPCX",
+     "pct": 1.2956044829504771
+    },
+    {
+     "t": "VIX",
+     "pct": -5.266878755744074
+    },
+    {
+     "t": "CRWV",
+     "pct": -0.08214998239642435
+    },
+    {
+     "t": "GC",
+     "pct": 0.8696627952645457
+    },
+    {
+     "t": "SPX",
+     "pct": -0.2542670623475113
+    }
+   ]
+  },
+  {
+   "id": "2026-11-26-1107-alpha",
+   "run": "2026-11-26-1107",
+   "kind": "alpha",
+   "title": "Alpha board",
+   "file": "briefs/2026-11-26-1107-alpha.json",
+   "generatedAt": "2026-11-26T19:07:38.365Z",
+   "slot": "11:07 AM",
+   "count": 8,
+   "newCount": 8,
+   "dirs": {
+    "up": 4,
+    "down": 2,
+    "mixed": 2
+   },
+   "headline": "AI debt markets, not AI stocks, are setting the tape; washed-out positioning and Anthropic catalysts offer bounces",
+   "tickers": [
+    {
+     "t": "SPY",
+     "pct": -0.2893792259105606
+    },
+    {
+     "t": "QQQ",
+     "pct": -0.6535025858016099
+    },
+    {
+     "t": "IWM",
+     "pct": 0.6476005090963608
+    },
+    {
+     "t": "CRWV",
+     "pct": -0.08214998239642435
+    },
+    {
+     "t": "ORCL",
+     "pct": -5.132420091324205
+    },
+    {
+     "t": "9984.T",
+     "pct": 7.324309289820137
+    }
+   ]
+  },
+  {
    "id": "2026-11-26-0614-must",
    "run": "2026-11-26-0614",
    "kind": "must",
@@ -170,5 +299,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-26T14:14:28.055Z"
+ "updatedAt": "2026-11-26T19:07:38.365Z"
 }
