@@ -2,6 +2,135 @@
  "schema": "brief-index/2",
  "briefs": [
   {
+   "id": "2026-11-27-0616-must",
+   "run": "2026-11-27-0616",
+   "kind": "must",
+   "title": "Must-know",
+   "file": "briefs/2026-11-27-0616-must.json",
+   "generatedAt": "2026-11-27T14:16:54.512Z",
+   "slot": "6:16 AM",
+   "count": 9,
+   "newCount": 6,
+   "dirs": {
+    "up": 3,
+    "down": 5,
+    "mixed": 1
+   },
+   "headline": "Breadth thrust from washout plus seasonality favors year-end rebound",
+   "tickers": [
+    {
+     "t": "NDX",
+     "pct": -0.6380976882424834
+    },
+    {
+     "t": "SPX",
+     "pct": -0.2542670623475113
+    },
+    {
+     "t": "NVDA",
+     "pct": -3.9129875144806183
+    },
+    {
+     "t": "0981.HK",
+     "pct": 16.390584132519606
+    },
+    {
+     "t": "MSTR",
+     "pct": 3.107672469374593
+    },
+    {
+     "t": "BTC",
+     "pct": 1.4668915853044766
+    }
+   ]
+  },
+  {
+   "id": "2026-11-27-0616-setups",
+   "run": "2026-11-27-0616",
+   "kind": "setups",
+   "title": "Setups to research",
+   "file": "briefs/2026-11-27-0616-setups.json",
+   "generatedAt": "2026-11-27T14:16:54.512Z",
+   "slot": "6:16 AM",
+   "count": 7,
+   "newCount": 7,
+   "dirs": {
+    "up": 3,
+    "down": 4,
+    "mixed": 0
+   },
+   "headline": "Bullish consensus on SPCX",
+   "tickers": [
+    {
+     "t": "SPCX",
+     "pct": 1.2956044829504771
+    },
+    {
+     "t": "AMZN",
+     "pct": -3.1154623647389847
+    },
+    {
+     "t": "BNB",
+     "pct": 1.693302955563185
+    },
+    {
+     "t": "BTC",
+     "pct": 1.4668915853044766
+    },
+    {
+     "t": "NVDA",
+     "pct": -3.9129875144806183
+    },
+    {
+     "t": "SPX",
+     "pct": -0.2542670623475113
+    }
+   ]
+  },
+  {
+   "id": "2026-11-27-0616-alpha",
+   "run": "2026-11-27-0616",
+   "kind": "alpha",
+   "title": "Alpha board",
+   "file": "briefs/2026-11-27-0616-alpha.json",
+   "generatedAt": "2026-11-27T14:16:54.512Z",
+   "slot": "6:16 AM",
+   "count": 6,
+   "newCount": 5,
+   "dirs": {
+    "up": 3,
+    "down": 0,
+    "mixed": 3
+   },
+   "headline": "Edge sits where fundamentals and price split: memory, aluminum and holiday spending against a CTA-driven, still-fragile tape",
+   "tickers": [
+    {
+     "t": "ALI",
+     "pct": null
+    },
+    {
+     "t": "AA",
+     "pct": 2.573852003509806
+    },
+    {
+     "t": "CENX",
+     "pct": 1.6173434273916119
+    },
+    {
+     "t": "MU",
+     "pct": -4.574549298255913
+    },
+    {
+     "t": "SKHY",
+     "pct": -0.7501339524915194
+    },
+    {
+     "t": "SPX",
+     "pct": -0.2542670623475113
+    }
+   ]
+  },
+  {
    "id": "2026-11-26-1107-must",
    "run": "2026-11-26-1107",
    "kind": "must",
@@ -299,5 +428,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-26T19:07:38.365Z"
+ "updatedAt": "2026-11-27T14:16:54.512Z"
 }
