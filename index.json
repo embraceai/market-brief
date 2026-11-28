@@ -2,6 +2,131 @@
  "schema": "brief-index/2",
  "briefs": [
   {
+   "id": "2026-11-28-0652-must",
+   "run": "2026-11-28-0652",
+   "kind": "must",
+   "title": "Must-know",
+   "file": "briefs/2026-11-28-0652-must.json",
+   "generatedAt": "2026-11-28T14:52:10.485Z",
+   "slot": "6:52 AM",
+   "count": 6,
+   "newCount": 0,
+   "dirs": {
+    "up": 3,
+    "down": 3,
+    "mixed": 0
+   },
+   "headline": "Relief rebound after correction, led by Nvidia's Huang returning as CEO",
+   "tickers": [
+    {
+     "t": "SPX",
+     "pct": 1.5970139695215508
+    },
+    {
+     "t": "NDX",
+     "pct": 2.6087292704666174
+    },
+    {
+     "t": "DJI",
+     "pct": 1.179663610847918
+    },
+    {
+     "t": "NVDA",
+     "pct": 0.7970529135967834
+    },
+    {
+     "t": "0981.HK",
+     "pct": 16.390584132519606
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-0652-setups",
+   "run": "2026-11-28-0652",
+   "kind": "setups",
+   "title": "Setups to research",
+   "file": "briefs/2026-11-28-0652-setups.json",
+   "generatedAt": "2026-11-28T14:52:10.485Z",
+   "slot": "6:52 AM",
+   "count": 9,
+   "newCount": 9,
+   "dirs": {
+    "up": 3,
+    "down": 4,
+    "mixed": 2
+   },
+   "headline": "Bullish consensus on ANT",
+   "tickers": [
+    {
+     "t": "WMT",
+     "pct": 0.9019251174776397
+    },
+    {
+     "t": "DJI",
+     "pct": 1.179663610847918
+    },
+    {
+     "t": "CL",
+     "pct": -0.717017208413012
+    },
+    {
+     "t": "NVDA",
+     "pct": 0.7970529135967834
+    },
+    {
+     "t": "AMZN",
+     "pct": 3.96432516466882
+    },
+    {
+     "t": "SPX",
+     "pct": 1.5970139695215508
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-0652-alpha",
+   "run": "2026-11-28-0652",
+   "kind": "alpha",
+   "title": "Alpha board",
+   "file": "briefs/2026-11-28-0652-alpha.json",
+   "generatedAt": "2026-11-28T14:52:10.485Z",
+   "slot": "6:52 AM",
+   "count": 6,
+   "newCount": 0,
+   "dirs": {
+    "up": 3,
+    "down": 0,
+    "mixed": 3
+   },
+   "headline": "Edge sits where fundamentals and price split: memory, aluminum and holiday spending against a CTA-driven, still-fragile tape",
+   "tickers": [
+    {
+     "t": "ALI",
+     "pct": null
+    },
+    {
+     "t": "AA",
+     "pct": 3.4502423723980638
+    },
+    {
+     "t": "CENX",
+     "pct": 6.061632238401622
+    },
+    {
+     "t": "MU",
+     "pct": 7.600831600831609
+    },
+    {
+     "t": "SKHY",
+     "pct": 7.522044268490193
+    },
+    {
+     "t": "SPX",
+     "pct": 1.5970139695215508
+    }
+   ]
+  },
+  {
    "id": "2026-11-27-1148-must",
    "run": "2026-11-27-1148",
    "kind": "must",
@@ -557,5 +682,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-27T19:48:16.973Z"
+ "updatedAt": "2026-11-28T14:52:10.485Z"
 }
